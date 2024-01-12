@@ -1,9 +1,2 @@
-# TB2-Android-Studio
-aplikasi food delivery
-cara menggunakan : 
-- download file project
-- pastikan semua file yang ada fi app terdownload
-- buka android studio
-- pilih 'open..."
-- pilih file project yang telah kita download tadi
-- lakukan gradle sync, dengan cara di bagian view -> tools windows -> gradle
+## Food Order Application Laksmana Rakho
+Food order application adalah sebuah prototype aplikasi pemesanan makanan secara online untuk sebuah restoran, pada tugas kali ini adalah restoran saya, Mas Ndut. Prototype Aplikasi ini adalah salah satu tugas dari mata kuliah mobile programming dan menjadi tugas akhir mahasiswa agar bisa lulus. aplikasi ini menyediakan poin pencarian, preview makanan dan laman checkout. android studio merupakan aplikasi untuk membuat aplikasi food order dengan bahasa pemrograman Java dan menggunakan Skema Extensible Markup Language atau XML. check -> [Food Order Application Laksmana Rakho](
