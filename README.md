@@ -6,4 +6,4 @@ Food order application adalah sebuah prototype aplikasi pemesanan makanan secara
 >
 > aplikasi ini adalah tugas akhir dari mata kuliah mobile programming. aplikasi ini berfokus pada implementasi dari materi yang sudah diberikan sebelumnya seperti : checkbox, recycler view, macam-macam layout, button, text view dan text edit,image view, pemrograman Java dan lain-lain, sehingga aplikasi ini masih sangat terbatas seputar materi yang disebutkan. namun pengembangan masih mungkin dilakukan sehingga bisa dipantau saja di [`tugas` branch](https://github.com/mas003/TB2-Android-Studio/tree/tugas)
 
-![TB2-Android-Studio](.media%20dokumentasi/
+![Food Order Application](.media dokumentasi/dokumentasi.png)
