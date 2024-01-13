@@ -10,7 +10,10 @@ Food order application adalah sebuah prototype aplikasi pemesanan makanan secara
 
 ## Penerapan
 
-untuk memulai aplikasi food order ini, bisa mengikuti langkah-langkah berikut ini -> [jjj](jsjjs)
+untuk memulai aplikasi food order ini, bisa mengikuti langkah-langkah berikut ini :
+* **Buka Project di Android Studio**
+* **Lakukan Sync Gradle**
+* **Run**
 
 ## Stack
 
@@ -19,6 +22,8 @@ kesimpulan nya, aplikasi ini terlihat seperti ini karena sudah termasuk pada :
 * **Front-End** - Skema Extensible Markup Language atau XML, digunakan untuk mengatur dan men setting front-end aplikasi pada android studio
 * **Back-End** - Bahasa pemrograman Java, adalah bahasa inti yang digunakan pada android studio dalam mengatur aplikasi
 * **Gradle** - Gradle, sebuah toolkit build canggih, untuk mengotomatiskan dan mengelola proses build. Android Studio menggunakan Gradle sebagai dasar sistem build, dengan lebih banyak kemampuan khusus Android yang disediakan oleh plugin Android Gradle.
-* **API** - Android Studio menggunakan API dari Reqres.in. Android Studio juga menggunakan API bahasa Java 8. 
+* **API** - Android Studio menggunakan API dari Reqres.in. Android Studio juga menggunakan API bahasa Java 8.
+
+![Stack](media/Gradle.png)
 
 
